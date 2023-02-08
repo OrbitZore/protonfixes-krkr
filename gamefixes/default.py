@@ -26,3 +26,4 @@ def main():
                 util.set_dxvk_option(str(dxvk_opt[0]), str(dxvk_opt[1]))
 
     use_steam_commands() 
+    util.protontricks('wmp11')
